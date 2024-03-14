@@ -1,8 +1,8 @@
 const
+// missing connection destination for const
+    host: "local",
 
-    host:
-
-    user:
+    user: "local",
 
     password: "",
     database: "employees"
