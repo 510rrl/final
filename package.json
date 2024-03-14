@@ -1,9 +1,9 @@
-"name": "final"
-"description":{
+
     "name": "final",
     "description": "12 HW challenge",
     "authors": "RRL",
     "version": "1.0.0",
     "main": "pathToMain",
     "dependencies": {}
-}// going to remove first two lines 
+// going to remove first two lines 
+//removed identical lines
