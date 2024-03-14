@@ -5,3 +5,5 @@ const db = require();
 init();
 
 //added index.js prompt 
+
+//type mysqlsh to download mysql shell

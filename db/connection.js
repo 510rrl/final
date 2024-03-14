@@ -7,4 +7,4 @@ const
     password: "",
     database: "employees"
 
-    //missing terminology 
+    //need to specify the relationship between tables using primary and foreign keys
