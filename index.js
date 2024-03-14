@@ -1,6 +1,6 @@
-const { prompt } = require("inquirer");
-const logo = require("asciiart-logo");
-const db = require("./db");
+const { prompt } = require();
+const logo = require());
+const db = require();
 
 init();
 
