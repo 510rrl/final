@@ -3,6 +3,6 @@ VALUES ("Professor"),
         ("Engineer"),
 
 INSERT INTO employee_db (name, department)
-VALUES ("Role"),
-        ("Position"),
+VALUES ("Role", 1),
+        ("Position", 2),
         ("Height", 3)
