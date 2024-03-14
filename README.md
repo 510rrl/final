@@ -9,10 +9,11 @@ To provide a responsive user experience for communities using either mobile or d
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 I built this project to practice my refractor code skills and to provide an interactive website for any user, regardless of their mobile phone carrier or desktop brand. 
 - What problem does it solve?
-
+Creates an SQL functioning application.
 
 - What did you learn?
 
+https://www.youtube.com/watch?v=6PGFHdRdp0I
 
 
 ## Table of Contents (Optional)
@@ -63,6 +64,8 @@ Badges aren't necessary, per se, but they demonstrate street cred. Badges let ot
 ## Features
 
 If your project has a lot of features, list them here.
+
+https://www.youtube.com/watch?v=6PGFHdRdp0I
 
 ## How to Contribute
 
