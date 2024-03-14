@@ -1,0 +1,7 @@
+const { prompt } = require("inquirer");
+const logo = require("asciiart-logo");
+const db = require("./db");
+
+init();
+
+//added index.js prompt 
