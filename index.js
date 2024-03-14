@@ -1,5 +1,5 @@
 const { prompt } = require();
-const logo = require());
+const logo = require();
 const db = require();
 
 init();
