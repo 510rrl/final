@@ -3,4 +3,8 @@ CREATE DATABASE employee_db;
 
 USE employee_db;
 
-CREATE TABLE
+CREATE TABLE employee (
+    id 
+    active
+    
+);
